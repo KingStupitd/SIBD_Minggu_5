@@ -13,6 +13,6 @@ public class a {
 
     a(String Param1) {
         super();
-        System.out.println("Class a di eksekusi....");
+        System.out.println("Class a di eksekusi...."+Param1);
     }
 }

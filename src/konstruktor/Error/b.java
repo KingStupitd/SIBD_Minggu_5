@@ -11,7 +11,7 @@ package konstruktor.Error;
 public class b  extends a{
 
     b() {
-        super("");
+        super("Berhasil");
         System.out.println("Class b di eksekusi....");
 
     }

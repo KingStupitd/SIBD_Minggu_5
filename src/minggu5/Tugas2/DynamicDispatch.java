@@ -9,6 +9,7 @@ package minggu5.Tugas2;
  * @author KingStupitd
  */
 public class DynamicDispatch {
+    
     public static void main(String args[]) {
         A a = new A();
         B b = new B();
